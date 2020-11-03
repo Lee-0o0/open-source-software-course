@@ -1,0 +1,60 @@
+cid
+4
+刑事侦缉处（英文：Criminal Investigation Department，缩写：CID），成立于1923年，隶属于香港警察队，负责刑事侦缉，由侦缉处处长领导。1973年解散。
+DNN
+4
+Dotnetnuke是一个免费、开源、可扩展的内容管理系统。可广泛应用于商务网站、企业内网（Intranet）和外网网站、在线内容发布网站。
+and
+8
+AND在编程术语中表示一种运算方法，不可逆
+the
+2
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+of
+8
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+SVM
+7
+支持向量机（Support Vector Machine, SVM）是一类按监督学习（supervised learning）方式对数据进行二元分类的广义线性分类器（generalized linear classifier），其决策边界是对学习样本求解的最大边距超平面（maximum-margin hyperplane） [1-3]  。
+stability
+8
+stability，英文单词，名词，作名词时意为“稳定性；坚定，恒心”。
+learning
+8
+learnning，英语单词，名词、动词，作名词意为学习；学问，作动词意为学习（learn的现在分词）。
+IEEE
+5
+电气和电子工程师协会（IEEE，全称是Institute of Electrical and Electronics Engineers）是一个美国的电子技术与信息科学工程师的协会，是世界上最大的非营利性专业技术学会，其会员人数超过40万人，遍布160多个国家。IEEE致力于电气、电子、计算机工程和与科学有关的领域的开发和研究，在航空航天、信息技术、电力及消费性电子产品等领域 [1]  已制定了900多个行业标准，现已发展成为具有较大影响力的国际学术组织。国内已有北京、上海、西安、武汉、郑州等地的55所高校成立IEEE学生分会。 [2-3] 
+deep
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/Deep/1311933
+PCA
+7
+大脑后动脉：起自基底动脉
+transient
+4
+transient ，英语单词，主要用作为名词，意为瞬变现象；过往旅客；候鸟。
+power
+8
+POWER函数的主要作用是返回给定数字的乘幂。POWER函数的语法为：POWER(number,power)，其中参数number表示底数；参数power表示指数。两个参数可以是任意实数，当参数power的值为小数时，表示计算的是开方；当参数number取值小于0且参数power为小数时，POWER函数将返回#NUM!错误值。 [1] 
+on
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/on
+is
+1
+is即IS单级单吸离心泵。IS型系列泵为国际标准的单级单吸离心泵，供输送80°c以下的清水及物理化学性质类似于水的其它液体之用，泵的性能参数，技术要数，试验方法，安装尺寸都等效采用了有关的ISO国际标准。
+for
+1
+for（单词）for后加动名词，人称用宾格。
+to
+2
+to，英文单词，介词、副词、名词，作介词时意为“朝；位于……；到某处；到某状态；差；给；对于；比；连着；对着；等于；向……表示敬意；伴随；为了给……；适合；按……的看法；（结算账目时）记入”，作副词时意为“（门等）关上”，作名词时意为“（汤霍特、丹）多（人名）”。
+using
+2
+using是C# 语言中定义一个范围，将在此范围之外释放一个或多个对象。
+systems
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=systems&pn=0&rn=10&enc=utf8
+system
+2
+system是一个C/C++的函数。windows操作系统下system () 函数详解主要是在C语言中的应用，system函数需加头文件<stdlib.h>后方可调用。

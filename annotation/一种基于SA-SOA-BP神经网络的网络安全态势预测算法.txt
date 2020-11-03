@@ -1,0 +1,60 @@
+SOA
+3
+面向服务的架构（SOA）是一个组件模型，它将应用程序的不同功能单元（称为服务）进行拆分，并通过这些服务之间定义良好的接口和协议联系起来。接口是采用中立的方式进行定义的，它应该独立于实现服务的硬件平台、操作系统和编程语言。这使得构建在各种各样的系统中的服务可以以一种统一和通用的方式进行交互。
+rk
+2
+RK，淘米公司制作的游戏以及动漫作品摩尔庄园的NPC之一。
+and
+3
+AND在编程术语中表示一种运算方法，不可逆
+BP
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E8%A1%80%E5%8E%8B/766186?fromtitle=bp&fromid=7085478
+security
+7
+网络安全技术及其协议，包括了网络通信安全、信息在网络传输中的保密性和完整性、控制访问受限网域与敏感信息以及在公共网络如因特网上使用隐秘通讯。为了解决这些问题，各大组织及技术供应商纷纷推出了各种网络和信息安全技术。
+om
+1
+阿卡盼·纳玛（Om），1985年1月28日出生于泰国曼谷，泰国男演员 [1]  。
+predictio
+7
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=predictio&pn=0&rn=10&enc=utf8
+netw
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=netw&pn=0&rn=10&enc=utf8
+Jo
+7
+美剧《邪恶力量》中人物，是Ellen和William Anthony Harvelle的女儿。被多数人称为“最喜欢的女性角色”.
+urnal
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=urnal&pn=0&rn=10&enc=utf8
+based
+6
+based，英语单词，主要用作形容词、动词，作形容词时译为“基地在……的；在……居住（或工作）；（以某事）为基础，为根据”，作动词时译为“立基于，以……为基础（base 的过去式和过去分词）”。 [1] 
+Step
+4
+STEP(Standard for the Exchange of Product Model Data－产品模型数据交互规范) [1]  标准是国际标准化组织制定的描述整个产品生命周期内产品信息的标准，STEP标准是一个正在完善中的“产品数据模型交换标准”。它是由国际标准化组织(ISO)工业自动化与集成技术委员会(TC184)下属的第四分委会(SC4)制订，ISO正式代号为ISO-10303。它提供了一种不依赖具体系统的中性机制，只在实现产品数据的交换和共享。这种描述的性质使得它不仅适合于交换文件，也适合于作为执行和分享产品数据库和存档的基础。发达国家已经把STEP标准推向了工业应用。它的应用显著降低了产品生命周期内的信息交换成本，提高了产品研发效率，成为制造业进行国际合作、参与国际竞争的重要基础标准，是保持企业竞争力的重要工具。
+SA
+4
+隐形刺客是基于魔兽争霸3：冰封王座的多人实时对战自定义地图DotA（Defense of the Ancients）里近卫军团的一名敏捷型英雄，位于清晨酒馆。可以学习烟幕，闪烁突袭，背刺和永久隐身。
+situatio
+7
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=situatio&pn=0&rn=10&enc=utf8
+ij
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ij&pn=0&rn=10&enc=utf8
+etw
+4
+ETW(Event Tracing for Windows)提供了一种对用户层应用程序和内核层驱动创建的事件对象的跟踪记录机制。为开发者提供了一套快速、可靠、通用的一系列事件跟踪特性。
+stem
+7
+STEM是科学（Science），技术（Technology），工程（Engineering），数学（Mathematics）四门学科英文首字母的缩写，其中科学在于认识世界、解释自然界的客观规律；技术和工程则是在尊重自然规律的基础上改造世界、实现与自然界的和谐共处、解决社会发展过程中遇到的难题；数学则作为技术与工程学科的基础工具。
+puter
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=puter&pn=0&rn=10&enc=utf8
+ns
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/NS/2907719
+nal
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=nal&pn=0&rn=10&enc=utf8

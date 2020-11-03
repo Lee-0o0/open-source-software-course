@@ -1,0 +1,54 @@
+Actor
+2
+actor是一个英语单词，名词，作名词时意为“男演员；行动者；作用物”。
+learning
+1
+learnning，英语单词，名词、动词，作名词意为学习；学问，作动词意为学习（learn的现在分词）。
+and
+2
+AND在编程术语中表示一种运算方法，不可逆
+ye
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/YE
+yG
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=yG&pn=0&rn=10&enc=utf8
+la
+2
+洛杉矶（Los Angeles），位于美国加利福尼亚州西南部，是美国第二大城市，也是美国西部最大的城市，常被称为“天使之城”（City of Angels）。洛杉矶面积约1215平方公里，城市中心坐标为北纬34°03′、西经118°15′，全市拥有约408.67万的人口（2019年） [1]  。2019年，洛杉矶的地区生产总值为7109亿美元 [2]  。
+PyGame
+1
+Pygame是跨平台Pyth，Pygame 作者是 Pete Shinners， 协议为 GNU Lesser General Public License。
+DQ
+1
+DQ是Dairy Queen的首字母缩写，意为“冰雪皇后”。它的鼻祖是美国人McCullough。1938年，美国人麦卡洛尝试制作冰淇淋新产品。由于创始人麦卡洛先生喜欢把母牛称做“乳品行业的皇后”，冰淇淋店因此而得名。这就是Dairy Queen（奶品皇后）。
+2020.29
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=2020.29&pn=0&rn=10&enc=utf8
+pytorch
+2
+PyTorch是一个开源的Python机器学习库，基于Torch，用于自然语言处理等应用程序。
+oMast
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=oMast&pn=0&rn=10&enc=utf8
+nonconvex
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=nonconvex&pn=0&rn=10&enc=utf8
+neural
+2
+neural，英语单词，名词、形容词，作名词时意为“人名；(捷)诺伊拉尔”，作形容词时意为“神经的；神经系统的；背的；神经中枢的”。
+network
+2
+network，FrameworkService.exe是是Network Associates公司的E-policy反病毒套装的一部分。
+methods
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=methods&pn=0&rn=10&enc=utf8
+for
+2
+for（单词）for后加动名词，人称用宾格。
+er
+2
+Er，Emergency Room，医学名词，指急诊室。
+cloudlet
+2
+cloudlet，英语单词，主要用作名词，作名词时译为“朵云；薄云；小片云”。 [1] 

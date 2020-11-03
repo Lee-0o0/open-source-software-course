@@ -1,0 +1,57 @@
+BERT
+2
+bert，英语单词，主要用作名词，作名词时译为“伯特（男子名，等于Burt）”。 [1] 
+pos
+2
+销售终端——POS（point of sale）是一种多功能终端，把它安装在信用卡的特约商户和受理网点中与计算机联成网络，就能实现电子资金自动转账，它具有支持消费、预授权、余额查询和转账等功能，使用起来安全、快捷、可靠。
+ni
+5
+Native Instruments公司是一家以发展与提供可供作曲人、制作人、演奏者、DJ等使用的软件与硬件的科技公司。该公司于1996年在德国柏林的Kreuzberg区成立，目前将总部设立于德国柏林与美国加利福尼亚洲洛杉矶。在成立之初，公司主要以软件乐器（软音源）著称，而近几年则开始涉足于其他音乐设备领域。
+dmodel
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=dmodel&pn=0&rn=10&enc=utf8
+PE
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/PE/125
+Model
+2
+Model，意思是模特儿，模特儿是英文“model”的音译。模特一般来说要五官端正，身材良好，有气质，展示能力强，另外身高要具备一定的条件。Model在计算机程序设计中有两个概念：一个是三层架构中的实体类，另一个是MVC架构中的模型。
+Embedding
+2
+embedding，英语单词，主要用作名词、动词，作名词时译为“记者随军”，作动词时译为“把（物体）嵌入；派遣（战地记者等）；使（观点）深深植入；嵌进（短语）；插入（代码）（embed 的现在分词）”。 [1] 
+CRF
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/CRF
+CCKS2018
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=CCKS2018&pn=0&rn=10&enc=utf8
+Attention
+5
+《Attention》是美国男歌手Charlie Puth演唱的一首歌曲，发行于2017年4月21日 [1]  ，收录于Charlie Puth2018年5月11日发行的录音室专辑《Voicenotes》中。
+2n
+2
+EyeMed-2N每项产品背后的实用哲学，45年来这个简单的概念让EyeMed成为全球天然身体保养品的领导者，同时也是纯天然保养品的一流品牌，共有超过45000个健康食品店贩售EyeMed的产品，
+100002n
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=100002n&pn=0&rn=10&enc=utf8
+through
+2
+through，英语单词，主要用作介词、副词、形容词，作介词时意为“穿过，从一端到另一端；断开，洞穿；穿行；越过；透过……看到；隔着……听到；一直到底； 自始至终；从头到尾检查；通过（障碍、阶段或测试）；直至；经由；凭借”；作副词时意为“从一端到另一端；通过；从头至尾；通过； 直达；径直；（电话）接通着；彻底”；作形容词时意为“直达的；联运的，全程的；直通的；贯穿的，过境的；对穿的，双向的；与楼两对面通透的；进入下一轮的；完结的；（使用）完成，结束；（关系）了结，断绝”。
+tence
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=tence&pn=0&rn=10&enc=utf8
+technique
+5
+technique，英语单词，主要用作名词，意思是“技巧，技术；手法”。
+softmax
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=softmax&pn=0&rn=10&enc=utf8
+sin
+2
+正弦（sine），数学术语，在直角三角形中，任意一锐角∠A的对边与斜边的比叫做∠A的正弦，记作sinA（由英语sine一词简写得来），即sinA=∠A的对边/斜边。
+mbedding
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=mbedding&pn=0&rn=10&enc=utf8
+hybrid
+5
+Hybrid是华为、H3C交换机的一种端口模式，这个接口也能够允许多个VLAN帧通过并且还可以指定哪些VLAN数据帧被剥离标签，主要实现高隔离度的波分和复用。

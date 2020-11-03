@@ -1,0 +1,16 @@
+x1
+3
+ni
+1
+CAE
+2
+y1
+3
+sgn
+3
+ZZ
+3
+FSIM
+4
+DWT
+2

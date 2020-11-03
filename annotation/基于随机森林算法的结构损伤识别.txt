@@ -1,0 +1,57 @@
+ANN
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E5%AE%89%E5%A6%AE%C2%B7%E5%BD%A4%E5%B8%95%E6%8B%89%E6%9D%BE/5418396?fromtitle=ANN&fromid=4973101
+Li
+1
+锂是一种金属元素，元素符号为Li，对应的单质为银白色质软金属，也是密度最小的金属。用于原子反应堆、制轻合金及电池等。锂和它的化合物并不像其他的碱金属那么典型，因为锂的电荷密度很大并且有稳定的氦型双电子层，使得锂容易极化其他的分子或离子，自己本身却不容易受到极化。这一点就影响到它和它的化合物的稳定性。
+Gini
+2
+Gini，腾讯手游《王者荣耀》游戏解说。 [1] 
+mm
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E5%A4%9A%E5%8F%91%E6%80%A7%E9%AA%A8%E9%AB%93%E7%98%A4/2249848?fromtitle=MM&fromid=3903804
+Xi
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E2%85%AA
+Machine
+4
+machine，英文单词，名词、动词，作名词时意为“机械，机器；机构；机械般工作的人，人名；(意)马基内”，作动词时意为“用机器制造”。
+Breiman
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Breiman&pn=0&rn=10&enc=utf8
+Bagging
+2
+Bagging算法 （英语：Bootstrap aggregating，引导聚集算法），又称装袋算法，是机器学习领域的一种团体学习算法。最初由Leo Breiman于1996年提出。Bagging算法可与其他分类、回归算法结合，提高其准确率、稳定性的同时，通过降低结果的方差，避免过拟合的发生。
+on
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/on
+for
+4
+for（单词）for后加动名词，人称用宾格。
+et
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/ET
+based
+4
+based，英语单词，主要用作形容词、动词，作形容词时译为“基地在……的；在……居住（或工作）；（以某事）为基础，为根据”，作动词时译为“立基于，以……为基础（base 的过去式和过去分词）”。 [1] 
+al
+4
+al是阿尔巴尼亚（Albania）的英文缩写。
+Zhongxian
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Zhongxian&pn=0&rn=10&enc=utf8
+TONG
+4
+Tong是影片《暹罗之恋》的一个重要角色。
+SVM
+1
+支持向量机（Support Vector Machine, SVM）是一类按监督学习（supervised learning）方式对数据进行二元分类的广义线性分类器（generalized linear classifier），其决策边界是对学习样本求解的最大边距超平面（maximum-margin hyperplane） [1-3]  。
+Random
+1
+random即随机数发生器，使用之前需要使用Randomize语句进行随机数种子的初始化。RANDOM产生的是伪随机数或者说是用一种复杂的方法计算得到的序列值，因此每次运算时需要一个不同的种子值。种子值不同，得到的序列值也不同。因此也就是真正的随机数了。这也正是RANDOMIZE随机初始化的作用。 VB里用 NEW RANDOM()来表示初始化。
+RF
+2
+罗杰·费德勒（Roger Federer），1981年8月8日出生于瑞士巴塞尔，瑞士男子职业网球运动员（1998年转为职业），以全面稳定的技术、华丽积极的球风、绅士优雅的形象而著称。众多评论家、现役与退役的选手认为费德勒为史上最伟大球员之一。费德勒不仅在网球领域取得成功，亦在慈善和商业领域活跃。
+Learning
+4
+learnning，英语单词，名词、动词，作名词意为学习；学问，作动词意为学习（learn的现在分词）。

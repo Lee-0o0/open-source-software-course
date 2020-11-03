@@ -1,0 +1,45 @@
+Massive
+3
+massive是一个英语单词，形容词，作形容词时意为“大量的；巨大的，厚重的；魁伟的”。
+5G
+1
+第五代移动通信技术（英语：5th generation mobile networks或5th generation wireless systems、5th-Generation，简称5G或5G技术）是最新一代蜂窝移动通信技术，也是继4G（LTE-A、WiMax）、3G（UMTS、LTE）和2G（GSM）系统之后的延伸。5G的性能目标是高数据速率、减少延迟、节省能源、降低成本、提高系统容量和大规模设备连接。Release-15中的5G规范的第一阶段是为了适应早期的商业部署。Release-16的第二阶段将于2020年4月完成，作为IMT-2020技术的候选提交给国际电信联盟（ITU） [1]  。ITU IMT-2020规范要求速度高达20 Gbit/s，可以实现宽信道带宽和大容量MIMO。
+MIMO
+3
+多进多出（MIMO）是为极大地提高信道容量，在发送端和接收端都使用多根天线，在收发之间构成多个信道的天线系统。MIMO系统的一个明显特点就是具有极高的频谱利用效率，在对现有频谱资源充分利用的基础上通过利用空间资源来获取可靠性与有效性两方面增益，其代价是增加了发送端与接收端的处理复杂度。大规模MIMO技术采用大量天线来服务数量相对较少的用户，可以有效提高频谱效率。
+and
+4
+AND在编程术语中表示一种运算方法，不可逆
+vision
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/Vision
+smart
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/smart/2230883
+home
+4
+home，英文单词，主要用作名词、副词、形容词、动词，作名词时意为“家，住宅；产地；家乡；避难所，人名；(德、芬)霍梅；(英、尼)霍姆”，作副词时意为“在家，回家；深入地”，作形容词时意为“国内的，家庭的；有效的”，作动词时意为“归巢，回家”。
+enabled
+4
+enabled，英语单词，主要用作动词，作动词时译为“使能够，使成为可能；授权给，批准；（计）启动，激活（enable 的过去式和过去分词）”。 [1] 
+by
+4
+by是一个英语单词，名词、副词、形容词、介词，作名词时意思是“（体育比赛）轮空晋级”，作副词时意思是“经过；（时间）过去；在旁边；短暂访问”，作形容词时意思是“旁边的，侧面的”，作介词时意思是“由，被；通过；相差……；到……之前；在……旁边”。
+V1
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/v1
+Smart
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/smart/2230883
+Skouby
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Skouby&pn=0&rn=10&enc=utf8
+Lynggaard
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Lynggaard&pn=0&rn=10&enc=utf8
+IoT
+4
+IoT(Interference over Thermal) (干扰噪声)
+IMT
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/IMT

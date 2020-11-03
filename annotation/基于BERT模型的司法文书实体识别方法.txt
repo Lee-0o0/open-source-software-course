@@ -1,0 +1,57 @@
+of
+5
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+BE
+1
+铍（Beryllium）是第二周期第二主族元素，原子序数为4，元素符号Be，是一种灰白色的碱土金属。铍及其化合物都有剧毒。铍既能溶于酸也能溶于碱液，是两性金属，铍主要用于制备合金。
+rm
+3
+rm（Repetition Maximum）是健美术语，通俗的说，在健身领域，“RM”是一个带有单位性质的词语，用于描述训练时应选择的重量是怎样一个度。
+iL
+6
+中间语言(中间代码)是一种面向语法，易于翻译成目标程序的源程序的等效内部表示代码。其可理解性及易于生成目标代码的程度介于源语言和目标语言之间。常用的中间语言有逆波兰表示、四元式、三元式和树表示等。
+the
+5
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+ransf
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ransf&pn=0&rn=10&enc=utf8
+nal
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=nal&pn=0&rn=10&enc=utf8
+iLSTM
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=iLSTM&pn=0&rn=10&enc=utf8
+ex
+1
+ex是英语词根，英式读音是eks、美读音是εks，意思是前妻或前夫；以前的男朋友或女朋友；以前的性伴侣，如exwife前妻。
+tractio
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=tractio&pn=0&rn=10&enc=utf8
+er
+6
+Er，Emergency Room，医学名词，指急诊室。
+STM
+6
+扫描隧道显微镜 Scanning Tunneling Microscope 缩写为STM。它作为一种扫描探针显微术工具，扫描隧道显微镜可以让科学家观察和定位单个原子，它具有比它的同类原子力显微镜更加高的分辨率。
+urnal
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=urnal&pn=0&rn=10&enc=utf8
+netw
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=netw&pn=0&rn=10&enc=utf8
+ersity
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ersity&pn=0&rn=10&enc=utf8
+entity
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/Entity
+ef
+5
+EF英孚教育的全称“Education First”，于1965年由Bertil Hult创办。EF属于私有企业，旗下有16个下属机构及非盈利性组织，提供各种教育类课程，包括语言学习、留学旅游及学位课程以及文化交流。本着“教育，让世界无界”的使命 ，EF帮助了各年龄和国籍的人。如今，EF 英孚教育遍布全球50多个国家，员工多达40000多人，帮助了1500多万学员。
+del
+6
+Del (erase)[Drive:][Path]FileName 是指删除指定文件。指定要删除的文件或文件集的位置和名称。需要Filename。可以使用多个文件名。用空格、逗号或分号分开文件名。
+case
+1
+"CASE"─美国刀具质量的代名词 。累积120年的经验"Case"的名字在刀具业当中是一令人尊重的质量精神象征，1889年开始一个名为"W.R.Case & Son Cutlery Company"在纽约州北部开启了美国刀具业的传奇历史。

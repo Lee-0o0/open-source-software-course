@@ -1,0 +1,42 @@
+cid
+1
+刑事侦缉处（英文：Criminal Investigation Department，缩写：CID），成立于1923年，隶属于香港警察队，负责刑事侦缉，由侦缉处处长领导。1973年解散。
+AI
+1
+人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。
+DeepFake
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=DeepFake&pn=0&rn=10&enc=utf8
+Github
+2
+GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 Git 作为唯一的版本库格式进行托管，故名 GitHub。
+deepfakes
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=deepfakes&pn=0&rn=10&enc=utf8
+Reddit
+1
+Reddit是个社交新闻站点，口号：提前于新闻发声，来自互联网的声音。其拥有者是Condé Nast Digital公司（Advance Magazine Publishers Inc的子公司）。用户（也叫redditors）能够浏览并且可以提交因特网上内容的链接或发布自己的原创或有关用户提交文本的帖子。其他的用户可对发布的链接进行高分或低分的投票，得分突出的链接会被放到首页。另外，用户可对发布的链接进行评论以及回复其他评论者，这样就形成了一个在线社区。Reddit用户可以创造他们自己的论题部分，对发布链接和评论的人来说，既像Reddit用户提交的非正式的，也像社团的正式的。
+QQ
+2
+QQ是腾讯QQ的简称，是一款基于Internet即时通信（IM）软件。QQ已经覆盖了Microsoft Windows、macOS、Android、iOS、Windows Phone、Linux等多种主流平台。其标志是一只戴着红色围巾的小企鹅。腾讯QQ支持在线聊天、视频通话、点对点断点续传文件、共享文件、网络硬盘、自定义面板、QQ邮箱等多种功能，并可与多种通讯终端相连。
+Kneron
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Kneron&pn=0&rn=10&enc=utf8
+GeekPwn
+2
+GeekPwn（极棒）由国内顶尖信息安全团队碁震（KEEN）于2014年发起并主办，至今已成功举办6年。GeekPwn是全球最大关注智能生活的安全极客（黑客）大赛，也是全球首个探索人工智能与专业安全的前沿平台，与Pwn2Own、Defcon并称为世界三大黑客赛事，截至目前GeekPwn已负责任地披露上百个高危安全漏洞 [1]  。
+Gartner
+2
+Gartner Group公司成立于1979年，它是第一家信息技术研究和分析的公司。它为有需要的技术用户来提供专门的服务。Gartner已经成为了一家独立的咨询公司，Gartner公司的服务主要是迎合中型公司的需要，它希望使自己的业务覆盖到IT行业的所有领域，从而让自己成为每一位用户的一站式信息技术服务公司。
+GANs
+1
+生成对抗网络（Generative Adversarial Nets)
+GAN
+1
+氮化镓是一种无机物，化学式GaN，是氮和镓的化合物，是一种直接能隙（direct bandgap）的半导体，自1990年起常用在发光二极管中。此化合物结构类似纤锌矿，硬度很高。氮化镓的能隙很宽，为3.4电子伏特，可以用在高功率、高速的光电元件中，例如氮化镓可以用在紫光的激光二极管，可以在不使用非线性半导体泵浦固体激光器（Diode-pumped solid-state laser）的条件下，产生紫光（405nm）激光。
+Facebook
+1
+Facebook（脸书，脸谱网 [1]  ）公司创立于2004年2月4日，总部位于美国加利福尼亚州门洛帕克。2012年3月6日发布Windows版桌面聊天软件Facebook Messenger [2]  。主要创始人马克·扎克伯格（Mark Zuckerberg）。
+FaceID
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=FaceID&pn=0&rn=10&enc=utf8

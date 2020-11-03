@@ -1,0 +1,54 @@
+AI
+3
+人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。
+com
+5
+COM是Component Object Model （组件对象模型）的缩写。
+OL
+5
+Office Lady（简称OL），也即白领丽人（白领女郎），意思指打扮衣着入时，且具备一定办事能力，美丽与智慧兼备的办公室女性文职人员，“OL”此简称源自日本女性自身”编辑长樱井秀勋所创。
+IBM
+2
+国际商业机器公司或万国商业机器公司，简称IBM（International Business Machines Corporation）。总公司在纽约州阿蒙克市。1911年托马斯·沃森创立于美国，是全球最大的信息技术和业务解决方案公司，拥有全球雇员 31万多人，业务遍及160多个国家和地区。
+sina
+5
+新浪（NASDAQ：SINA）新浪公司是一家服务于中国及全球华人社群的网络媒体公司，成立于1998年12月，由王志东创立，现任董事长曹国伟，服务大中华地区与海外华人，新浪拥有多家地区性网站。
+roll
+5
+ROLL在水深测量的专业术语中，可解释为测量船的“横摇”。RoLL（Routing over Lossy and Low-power Networks）低功耗路由算法。同时RoLL也是IETF成立的进行低功耗IPv6网络方面的研究3的个工作组之一。其他2个工作组分别是6LowPan（IPv6 over Low-power and Lossy Networks）工作组和CoRE（Constrained Restful Environment）工作组。
+of
+1
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+issn
+1
+国际标准连续出版物号，英文为International Standard Serial Number，缩写为ISSN。国际通用的连续出版物识别代码。
+ifyix
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ifyix&pn=0&rn=10&enc=utf8
+id
+4
+id（Identity document），是身份证标识号、账号、唯一编码、专属号码、工业设计、国家简称、法律词汇、通用账户、译码器、软件公司等各类专有词汇的缩写。
+https
+4
+HTTPS （全称：Hyper Text Transfer Protocol over SecureSocket Layer），是以安全为目标的 HTTP 通道，在HTTP的基础上通过传输加密和身份认证保证了传输过程的安全性 [1]  。HTTPS 在HTTP 的基础下加入SSL 层，HTTPS 的安全基础是 SSL，因此加密的详细内容就需要 SSL。 HTTPS 存在不同于 HTTP 的默认端口及一个加密/身份验证层（在 HTTP与 TCP 之间）。这个系统提供了身份验证与加密通讯方法。它被广泛用于万维网上安全敏感的通讯，例如交易支付等方面 [2]  。
+http
+5
+http是一个简单的请求-响应协议，它通常运行在TCP之上。它指定了客户端可能发送给服务器什么样的消息以及得到什么样的响应。请求和响应消息的头以ASCII码形式给出；而消息内容则具有一个类似MIME的格式。这个简单模型是早期Web成功的有功之臣，因为它使开发和部署非常地直截了当。
+finance
+5
+finance，英语单词，主要用作为名词、动词，作名词时意为财政，财政学；金融；(Finance)人名；(法)菲南斯；作动词时意为负担经费，供给…经费；筹措资金。
+doc
+5
+汉语：文档（外语缩写：DOC、外语全称：Document）是电脑文件常见文件扩展名的一种，亦是Word2003以前版本的文本文档。自Word2007之后为docx。该格式原是纯文本文件使用的，多见于不同的操作系统中，软硬件的使用说明。
+cn
+5
+.CN，Internet网络域名，国家顶级域名，表示中国国家域名。它是由中国国际互联网络信息中心（Inter NIC）正式注册并运行。.CN域名是全球唯一由中国管理的英文国际顶级域名，是中国企业自己的互联网标识，它体现了一种文化的认同、自身的价值和定位。
+ca
+5
+《化学文摘》简称CA，是世界最大的化学文摘库。也是目前世界上应用最广泛，最为重要的化学、化工及相关学科的检索工具。
+baijiahao
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=baijiahao&pn=0&rn=10&enc=utf8
+baidu
+4
+百度（纳斯达克：BIDU）是全球最大的中文搜索引擎，中国最大的以信息和知识为核心的互联网综合服务公司，全球领先的人工智能平台型公司。百度愿景是：成为最懂用户，并能帮助人们成长的全球顶级高科技公司。 [1] 

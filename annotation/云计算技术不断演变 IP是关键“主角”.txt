@@ -1,0 +1,60 @@
+cid
+1
+刑事侦缉处（英文：Criminal Investigation Department，缩写：CID），成立于1923年，隶属于香港警察队，负责刑事侦缉，由侦缉处处长领导。1973年解散。
+IP
+2
+IP是Internet Protocol（网际互连协议）的缩写，是TCP/IP体系中的网络层协议。设计IP的目的是提高网络的可扩展性：一是解决互联网问题，实现大规模、异构网络的互联互通；二是分割顶层网络应用和底层网络技术之间的耦合关系，以利于两者的独立发展。根据端到端的设计原则，IP只为主机提供一种无连接、不可靠的、尽力而为的数据包传输服务。 [1] 
+SoC
+1
+SoC的定义多种多样，由于其内涵丰富、应用范围广，很难给出准确定义。一般说来， SoC称为系统级芯片，也有称片上系统，意指它是一个产品，是一个有专用目标的集成电路，其中包含完整系统并有嵌入软件的全部内容。同时它又是一种技术，用以实现从确定系统功能开始，到软/硬件划分，并完成设计的整个过程。 [1] 
+SerDes
+2
+SERDES是英文SERializer(串行器)/DESerializer(解串器)的简称。它是一种主流的时分多路复用(TDM)、点对点(P2P)的串行通信技术。即在发送端多路低速并行信号被转换成高速串行信号，经过传输媒体(光缆或铜线)，最后在接收端高速串行信号重新转换成低速并行信号。这种点对点的串行通信技术充分利用传输媒体的信道容量，减少所需的传输信道和器件引脚数目，提升信号的传输速度，从而大大降低通信成本。
+Labs
+2
+莱博斯/Labs是国内一家集研发、生产、销售为一体的专业电源及电源解决方案提供的高科技公司。莱博斯拥有在锂电和电源行业从业多年的资深研发团队。专业精美的外观设计理念，非常重视产品的可靠性和安全性性设计，且有良好的客户服务意识。自成立以来，labs专注于设计研发移动电源产品及解决方案。
+AMD
+2
+美国AMD半导体公司专门为计算机、通信和消费电子行业设计和制造各种创新的微处理器（CPU、GPU、主板芯片组、电视卡芯片等)，以及提供闪存和低功率处理器解决方案，公司成立于1969年。AMD致力为技术用户——从企业、政府机构到个人消费者——提供基于标准的、以客户为中心的解决方案。
+for
+2
+for（单词）for后加动名词，人称用宾格。
+Starblaze
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Starblaze&pn=0&rn=10&enc=utf8
+Ryzen
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Ryzen&pn=0&rn=10&enc=utf8
+PCI
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E7%BB%8F%E7%9A%AE%E5%86%A0%E7%8A%B6%E5%8A%A8%E8%84%89%E4%BB%8B%E5%85%A5%E6%B2%BB%E7%96%97/6512958?fromtitle=PCI&fromid=4695688
+Habana
+2
+《Habana》是2014年Leoandy Chacon主演的一部微电影，导演是Edouard Salier。
+Express
+2
+express是一个英语单词，名词、动词、形容词，作名词时意思是“快车，快递，专使；捷运公司”，作及物动词时意思是“表达；快递”，作形容词时意思是“明确的；迅速的；专门的”。
+EPYC
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=EPYC&pn=0&rn=10&enc=utf8
+4.0
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=4.0&pn=0&rn=10&enc=utf8
+112G
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=112G&pn=0&rn=10&enc=utf8
+Tbps
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Tbps&pn=0&rn=10&enc=utf8
+STAR1000
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=STAR1000&pn=0&rn=10&enc=utf8
+SSD
+2
+固态驱动器（Solid State Disk或Solid State Drive，简称SSD），俗称固态硬盘。
+Rolands
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Rolands&pn=0&rn=10&enc=utf8
+PRO
+2
+PRO是PSP的一种自制系统已经更新到PRO-C

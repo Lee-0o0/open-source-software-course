@@ -1,0 +1,60 @@
+NN
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/NN
+and
+3
+AND在编程术语中表示一种运算方法，不可逆
+the
+2
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+LSTM
+3
+长短期记忆网络（LSTM，Long Short-Term Memory）是一种时间循环神经网络，是为了解决一般的RNN（循环神经网络）存在的长期依赖问题而专门设计出来的，所有的RNN都具有一种重复神经网络模块的链式形式。在标准RNN中，这个重复的结构模块只有一个非常简单的结构，例如一个tanh层。
+to
+1
+to，英文单词，介词、副词、名词，作介词时意为“朝；位于……；到某处；到某状态；差；给；对于；比；连着；对着；等于；向……表示敬意；伴随；为了给……；适合；按……的看法；（结算账目时）记入”，作副词时意为“（门等）关上”，作名词时意为“（汤霍特、丹）多（人名）”。
+lo
+2
+我们最早听到的洛丽塔，是一本小说的名字和一位12岁少女的名字。
+ecurrent
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ecurrent&pn=0&rn=10&enc=utf8
+nitio
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=nitio&pn=0&rn=10&enc=utf8
+em
+1
+EM是日本硫球大学比嘉照夫教授发明的微生物技术，取自“Effective Microorganisms”（有效微生物）的缩写。它是将包括好氧菌及厌氧菌在内的多种有益微生物通过独特的发酵技术有机地整合在一起，其中各微生物在增殖过程中互生共长，形成一个功能强大的整体，发挥“有益分解”、“抗氧化”等多方面的作用。
+sequence
+6
+Sequence是数据中一个特殊存放等差数列的表，该表受数据库系统控制，任何时候数据库系统都可以根据当前记录数大小加上步长来获取到该表下一条记录应该是多少，这个表没有实际意义，常常用来做主键用。不过各个数据库厂商没有一个统一的标准--各有各的一套对Sequence的定义和操作。
+ry
+2
+RY品牌是一款质量较好的民用级别OC自卫喷雾器。
+rt
+1
+今日俄罗斯电视台（Russia Today TV或Russia Today，或称今日俄国电视台，缩写为RT）是俄罗斯一家国际新闻频道，也是第一家全数字化的俄罗斯电视频道，由国有的俄罗斯新闻社所拥有。今日俄罗斯于2005年12月10日开播，有将近100名英语记者在全球范围进行报导。 [1]  2017年9月，美国司法部要求俄媒体RT America于11月13日前依照《外国代理人登记法》登记为“外国代理人”。 [2] 
+rk
+4
+RK，淘米公司制作的游戏以及动漫作品摩尔庄园的NPC之一。
+netw
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=netw&pn=0&rn=10&enc=utf8
+nal
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=nal&pn=0&rn=10&enc=utf8
+eural
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=eural&pn=0&rn=10&enc=utf8
+eco
+5
+《埃米尔物语》是一款于2011年01月12日发行的，由Gungho、Broccoli以及Headlock三家公司联合策划，开发和运营的一款角色扮演游戏。
+der
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/DER
+Pro
+6
+PRO是PSP的一种自制系统已经更新到PRO-C
+BP
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E8%A1%80%E5%8E%8B/766186?fromtitle=bp&fromid=7085478

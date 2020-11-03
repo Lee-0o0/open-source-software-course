@@ -1,0 +1,54 @@
+and
+5
+AND在编程术语中表示一种运算方法，不可逆
+MS
+1
+微软 [1]  （英文名称：Microsoft；中文名称：微软公司或美国微软公司）始建于1975年，是一家美国跨国科技公司，也是世界PC（Personal Computer，个人计算机）软件开发的先导，由比尔·盖茨与保罗·艾伦创办于1975年，公司总部设立在华盛顿州的雷德蒙德（Redmond，邻近西雅图）。以研发、制造、授权和提供广泛的电脑软件服务业务为主。
+C4
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/C4%E5%A1%91%E8%83%B6%E7%82%B8%E8%8D%AF?fromtitle=C4&fromid=1167926
+the
+1
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+of
+1
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+image
+1
+image是一个英语单词，名词、动词，作名词时意思是“影像；形象；肖像；偶像”，作及物动词时意思是“想象；反映；象征；作…的像”。
+min
+1
+皮查雅·瓦塔那蒙迪里（Min），1989年4月28日出生于泰国孔敬，泰国女演员、模特。
+SSIM
+5
+SSIM(Structural SIMilarity)，结构相似性，是一种衡量两幅图像相似度的指标。该指标首先由德州大学奥斯丁分校的图像和视频工程实验室(Laboratory for Image and Video Engineering)提出。SSIM使用的两张图像中，一张为未经压缩的无失真图像，另一张为失真后的图像。
+JPEG
+5
+JPEG（Joint Photographic Experts Group）是JPEG标准的产物，该标准由国际标准化组织（ISO）制订，是面向连续色调静止图像的一种压缩标准。 [1]  JPEG格式是最常用的图像文件格式，后缀名为.jpg或.jpeg。 [2] 
+on
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/on
+network
+5
+network，FrameworkService.exe是是Network Associates公司的E-policy反病毒套装的一部分。
+max
+3
+Max，是艺人吴尊儿子。
+JPEG2000
+4
+JPEG 2000是基于小波变换的图像压缩标准，由Joint Photographic Experts Group组织创建和维护。JPEG 2000通常被认为是未来取代JPEG（基于离散余弦变换）的下一代图像压缩标准。JPEG 2000文件的副档名通常为.jp2，MIME类型是image/jp2。
+neural
+5
+neural，英语单词，名词、形容词，作名词时意为“人名；(捷)诺伊拉尔”，作形容词时意为“神经的；神经系统的；背的；神经中枢的”。
+model
+5
+Model，意思是模特儿，模特儿是英文“model”的音译。模特一般来说要五官端正，身材良好，有气质，展示能力强，另外身高要具备一定的条件。Model在计算机程序设计中有两个概念：一个是三层架构中的实体类，另一个是MVC架构中的模型。
+int
+3
+程序中用的最多是一般整数类型（简称“整数类型”或“整型”）和长整数类型（简称“长整型”），整数类型的类型名是“int”，长整型的类型名为“long int”,可简写为“long”，int和long都是关键字。 [1] 
+bit
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6/133615?fromtitle=Bit&fromid=2806281
+PSN
+4
+PlayStation Network是2006年11月11日SONY PS3发售的同时开始正式提供PS3的网络服务。

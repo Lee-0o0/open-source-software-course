@@ -1,0 +1,33 @@
+SO
+1
+在信任的样子以后，体验极端的价值。比较贴近生活的歌词，开头也是比较俏皮的节奏。听出的是不同的深度，总之，很值得回味。
+rf
+5
+罗杰·费德勒（Roger Federer），1981年8月8日出生于瑞士巴塞尔，瑞士男子职业网球运动员（1998年转为职业），以全面稳定的技术、华丽积极的球风、绅士优雅的形象而著称。众多评论家、现役与退役的选手认为费德勒为史上最伟大球员之一。费德勒不仅在网球领域取得成功，亦在慈善和商业领域活跃。
+low
+5
+Low（乐队）乐队成立于1993年，成员包括Alan Sparhawk（吉他，人声），Mimi Parker（鼓，人声）和Steve Garrington（贝斯）。
+ix
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ix&pn=0&rn=10&enc=utf8
+enso
+5
+ENSO（El Niño-Southern Oscillation）是发生于赤道东太平洋地区的风场和海面温度震荡。ENSO是低纬度的海-气相互作用现象，在海洋方面表现为厄尔尼诺-拉尼娜的转变，在大气方面表现为南方涛动 [1-2]  。
+WSNs
+1
+WSNs（全称：Wireless Sensor Networks， 无线传感器网络）是指由大量感知、处理和计算能力有限的传感器通信节点组成的网络。这些节点以低成本和小尺寸开发，可以在监控区域内随机部署，提供接近物理现象的密集感知，处理和传达此信息，并与其他节点协调行动。
+STM32
+1
+STM32系列专为要求高性能、低成本、低功耗的嵌入式应用设计的ARM Cortex®-M0，M0+，M3, M4和M7内核（ST's product portfolio contains a comprehensive range of microcontrollers, from robust, low-cost 8-bit MCUs up to 32-bit ARM-based Cortex®-M0 and M0+, Cortex®-M3, Cortex®-M4 Flash microcontrollers with a great choice of peripherals. ST has also extended this range to include an ultra-low-power MCU platform) [1]  。按内核架构分为不同产品：
+Io
+5
+I/O输入/输出(Input/Output)，分为IO设备和IO接口两个部分。 在POSIX兼容的系统上，例如Linux系统 [1]  ，I/O操作可以有多种方式，比如DIO(Direct I/O)，AIO(Asynchronous I/O，异步I/O)，Memory-Mapped I/O(内存映射I/O)等，不同的I/O方式有不同的实现方式和性能，在不同的应用中可以按情况选择不同的I/O方式。
+EI
+4
+工程索引（EI）是由美国工程师学会联合会于1884年创办的历史上最悠久的一部大型综合性检索工具。EI在全球的学术界、工程界、信息界中享有盛誉，是科技界共同认可的重要检索工具。
+CO
+5
+钴 [1]  ，元素符号Co，银白色铁磁性金属，表面呈银白略带淡粉色，在周期表中位于第4周期、第Ⅷ族，原子序数27，原子量58.9332，密排六方晶体，常见化合价为+2、+3。 钴是具有光泽的钢灰色金属，比较硬而脆，有铁磁性，加热到1150℃时磁性消失。钴的化合价为+2价和+3价。在常温下不和水作用，在潮湿的空气中也很稳定。在空气中加热至300℃以上时氧化生成CoO，在白热时燃烧成Co3O4。氢还原法制成的细金属钴粉在空气中能自燃生成氧化钴。钴是生产耐热合金、硬质合金、防腐合金、磁性合金和各种钴盐的重要原料。
+CH
+5
+Ch是一个跨平台的C/C++脚本解释器，它支持ISO的C语言标准(C90/C99)和C++类库，附带了8000多个函数库并支持众多的工业标准，支持POSIX，socket/Winsock，X11/Motif，OpenGL，ODBC，C LAPACK，GTK+，Win32，XML和CGI等等。

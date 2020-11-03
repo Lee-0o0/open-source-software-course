@@ -1,0 +1,21 @@
+5G
+1
+第五代移动通信技术（英语：5th generation mobile networks或5th generation wireless systems、5th-Generation，简称5G或5G技术）是最新一代蜂窝移动通信技术，也是继4G（LTE-A、WiMax）、3G（UMTS、LTE）和2G（GSM）系统之后的延伸。5G的性能目标是高数据速率、减少延迟、节省能源、降低成本、提高系统容量和大规模设备连接。Release-15中的5G规范的第一阶段是为了适应早期的商业部署。Release-16的第二阶段将于2020年4月完成，作为IMT-2020技术的候选提交给国际电信联盟（ITU） [1]  。ITU IMT-2020规范要求速度高达20 Gbit/s，可以实现宽信道带宽和大容量MIMO。
+MCES
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=MCES&pn=0&rn=10&enc=utf8
+Key
+2
+Key是ビジュアルアーツ（Visual Art's）旗下的一个品牌，创立于1998年7月21日，是日本大阪市的一所游戏制作公司，以制作感人的Galgame而著称于业界。
+KP
+2
+KP也是土力学中的被动土压力系数
+Indicator
+2
+indicator，英语单词，名词，作名词时意为“指标，标志，迹象； 指示器；[试剂] 指示剂；[计] 指示符；压力计”。
+IMT
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/IMT
+DT
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/DT

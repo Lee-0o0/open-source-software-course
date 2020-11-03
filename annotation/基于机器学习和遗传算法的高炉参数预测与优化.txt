@@ -1,0 +1,51 @@
+__
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=__&pn=0&rn=10&enc=utf8
+learning
+4
+learnning，英语单词，名词、动词，作名词意为学习；学问，作动词意为学习（learn的现在分词）。
+of
+6
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+ig
+5
+iG（Invictus Gaming）电子竞技俱乐部成立于2011年，旗下拥有英雄联盟分部、DOTA2分部、星际争霸Ⅱ分部等。 [1] 
+NSGA
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=NSGA&pn=0&rn=10&enc=utf8
+machine
+5
+machine，英文单词，名词、动词，作名词时意为“机械，机器；机构；机械般工作的人，人名；(意)马基内”，作动词时意为“用机器制造”。
+R2
+4
+《新R2：霸主》是由韩国NHN Games研发的一款MMOARPG 3D网游，该作于2008年3月26日正式公测。
+estim
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=estim&pn=0&rn=10&enc=utf8
+ax
+4
+ax，英文单词，名词、单词，作动词时译为“削减，删除；用斧修整；解雇；询问”，作名词时译为“斧头；爵士乐器（尤指吉他或萨克斯管），（德、芬）阿克斯（人名）”。
+ato
+4
+三氧化二砷（As2O3），俗称砒霜，英文arsenic trioxide，缩写为ATO，商 品化药物为Trisenox，可以治疗急性早幼粒细胞白血病（APL）. 1.ATO(Antimony Doped Tin Oxide)，中文名为氧化锡锑，可作优良隔热粉、导电粉（抗静电粉）使用。其良好隔热性能，被广泛的应用于涂料、化纤、高分子膜等领域。
+SGA
+5
+SGA系统全局区的英文简称，SGA （System Global Area）是Oracle Instance的 基本组成部分，在实例启动时分配。是一组包含一个Oracle实例的数据和控制信息的共享内存结构。主要是用于存储数据库信息的内存区，该信息为数据库进程所共享（PGA不能共享的）。它包含Oracle 服务器的数据和控制信息，它是在Oracle服务器所驻留的计算机的实际内存中得以分配，如果实际内存不够再往虚拟内存中写。
+Pareto
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Pareto&pn=0&rn=10&enc=utf8
+tHM
+2
+全员危险源管理，一般简称THM，是英文的缩写。
+st
+4
+ST是指境内上市公司被进行特别处理的股票，也是退市风险警示。
+kg
+2
+凯文·加内特（Kevin Garnett），1976年5月19日出生在美国南卡罗来纳州，前美国职业篮球运动员，司职大前锋/中锋，绰号狼王（森林狼时期）、KG（名字缩写）、The BIG TICKET、Da Kid。
+htGBM
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=htGBM&pn=0&rn=10&enc=utf8
+generic
+4
+泛型（Generics）是VisualBasic2005中的一种新特性，然而很多开发者在第一次看到它的时候可能忽略它，但是他们最终会发现，在了解泛型之后，离开了泛型就几乎不能工作了。

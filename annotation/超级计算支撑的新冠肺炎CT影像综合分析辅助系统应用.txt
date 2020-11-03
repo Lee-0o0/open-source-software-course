@@ -1,0 +1,60 @@
+of
+7
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+the
+4
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+and
+1
+AND在编程术语中表示一种运算方法，不可逆
+CT
+7
+CT(Computed Tomography)，即电子计算机断层扫描，它是利用精确准直的X线束、γ射线、超声波等，与灵敏度极高的探测器一同围绕人体的某一部位作一个接一个的断面扫描，具有扫描时间快，图像清晰等特点，可用于多种疾病的检查；根据所采用的射线不同可分为：X射线CT（X-CT）以及γ射线CT（γ-CT)等。 [1] 
+to
+2
+to，英文单词，介词、副词、名词，作介词时意为“朝；位于……；到某处；到某状态；差；给；对于；比；连着；对着；等于；向……表示敬意；伴随；为了给……；适合；按……的看法；（结算账目时）记入”，作副词时意为“（门等）关上”，作名词时意为“（汤霍特、丹）多（人名）”。
+image
+1
+image是一个英语单词，名词、动词，作名词时意思是“影像；形象；肖像；偶像”，作及物动词时意思是“想象；反映；象征；作…的像”。
+analysis
+4
+analysis是一个英语单词，形名词，作名词时意为“分析；分解；验定”。
+pneumonia
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E8%82%BA%E7%82%8E?fromtitle=Pneumonia&fromid=11271006
+system
+1
+system是一个C/C++的函数。windows操作系统下system () 函数详解主要是在C语言中的应用，system函数需加头文件<stdlib.h>后方可调用。
+on
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/on
+COVID
+7
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=COVID&pn=0&rn=10&enc=utf8
+is
+2
+is即IS单级单吸离心泵。IS型系列泵为国际标准的单级单吸离心泵，供输送80°c以下的清水及物理化学性质类似于水的其它液体之用，泵的性能参数，技术要数，试验方法，安装尺寸都等效采用了有关的ISO国际标准。
+The
+1
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+Tianjin
+1
+tianjin，英语单词，主要用作名词，作名词时译为“天津（中国一城市）”。 [1] 
+typical
+8
+typical，英语单词，形容词，意为“典型的；特有的；象征性的”。
+network
+1
+network，FrameworkService.exe是是Network Associates公司的E-policy反病毒套装的一部分。
+subsystem
+1
+subsystem，连接器参数，用来指定程序的入口函数。
+learning
+2
+learnning，英语单词，名词、动词，作名词意为学习；学问，作动词意为学习（learn的现在分词）。
+for
+2
+for（单词）for后加动名词，人称用宾格。
+as
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E5%BC%BA%E7%9B%B4%E6%80%A7%E8%84%8A%E6%9F%B1%E7%82%8E/5055167?fromtitle=AS&fromid=5604038

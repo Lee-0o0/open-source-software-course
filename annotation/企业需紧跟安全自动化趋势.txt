@@ -1,0 +1,60 @@
+cid
+2
+刑事侦缉处（英文：Criminal Investigation Department，缩写：CID），成立于1923年，隶属于香港警察队，负责刑事侦缉，由侦缉处处长领导。1973年解散。
+Smibert
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Smibert&pn=0&rn=10&enc=utf8
+Arellano
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Arellano&pn=0&rn=10&enc=utf8
+Oltsik
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Oltsik&pn=0&rn=10&enc=utf8
+Murphy
+2
+搞笑战争微电影《Murphy》
+IT
+2
+互联网技术是指在计算机技术的基础上开发建立的一种信息技术 [1]  。互联网技术通过计算机网络的广域网使不同的设备相互连接，加快信息的传输速度和拓宽信息的获取渠道，促进各种不同的软件应用的开发，改变了人们的生活和学习方式。互联网技术的普遍应用，是进入信息社会的标志。
+DDoS
+3
+分布式拒绝服务攻击可以使很多的计算机在同一时间遭受到攻击，使攻击的目标无法正常使用，分布式拒绝服务攻击已经出现了很多次，导致很多的大型网站都出现了无法进行操作的情况，这样不仅仅会影响用户的正常使用，同时造成的经济损失也是非常巨大的。 [1] 
+API
+4
+API（Application Programming Interface，应用程序接口）是一些预先定义的函数，或指软件系统不同组成部分衔接的约定。 [1]  用来提供应用程序与开发人员基于某软件或硬件得以访问的一组例程，而又无需访问源码，或理解内部工作机制的细节。
+West
+1
+west，谐音翻译为威斯 ， 是德国最著名的烟草公司．授权红塔集团，在国内生产销售威斯烟．AMERICAN BLEND意思是美国混合型。
+Stacy
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Stacy&pn=0&rn=10&enc=utf8
+SecOps
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=SecOps&pn=0&rn=10&enc=utf8
+Research
+1
+research是一个英语单词，名词、动词，作名词时意思是“研究；调查”，作动词时意思是“研究；调查”。
+Maria
+4
+美依礼芽（メイリア），本名水桥舞，1992年1月31日出生于日本茨城。歌手兼日本综艺艺人，NICONICO动画舞见，GARNiDELiA组合成员，爱称水まい
+Korolov
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Korolov&pn=0&rn=10&enc=utf8
+ISP
+2
+互联网服务提供商（Internet Service Provider），简称ISP，指的是面向公众提供下列信息服务的经营者：一是接入服务，即帮助用户接入Internet；二是导航服务，即帮助用户在Internet上找到所需要的信息；三是信息服务，即建立数据服务系统，收集、加工、存储信息，定期维护更新，并通过网络向用户提供信息内容服务。
+IP
+4
+IP是Internet Protocol（网际互连协议）的缩写，是TCP/IP体系中的网络层协议。设计IP的目的是提高网络的可扩展性：一是解决互联网问题，实现大规模、异构网络的互联互通；二是分割顶层网络应用和底层网络技术之间的耦合关系，以利于两者的独立发展。根据端到端的设计原则，IP只为主机提供一种无连接、不可靠的、尽力而为的数据包传输服务。 [1] 
+Finning
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Finning&pn=0&rn=10&enc=utf8
+ESG
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/ESG
+DNS
+3
+域名系统（英文：Domain Name System，缩写：DNS）是互联网的一项服务。它作为将域名和IP地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。DNS使用TCP和UDP端口53。当前，对于每一级域名长度的限制是63个字符，域名总长度则不能超过253个字符。
+Collett
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Collett&pn=0&rn=10&enc=utf8

@@ -1,0 +1,33 @@
+http
+4
+http是一个简单的请求-响应协议，它通常运行在TCP之上。它指定了客户端可能发送给服务器什么样的消息以及得到什么样的响应。请求和响应消息的头以ASCII码形式给出；而消息内容则具有一个类似MIME的格式。这个简单模型是早期Web成功的有功之臣，因为它使开发和部署非常地直截了当。
+ept
+1
+EPT是实况足球补丁制作小组，小组成立于2003年12月，是中国第一支成立的PC平台性质小组，小组前身为WECN_PES（并非从属于WECN，而是独立的小组），在推出了4个补丁后于2004年6月10日更名为EPT，
+cience
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=cience&pn=0&rn=10&enc=utf8
+atural
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=atural&pn=0&rn=10&enc=utf8
+UN
+1
+联合国（英语：United Nations(UN)；法语：Organisation des Nations Unies；西班牙语：Organización de las Naciones Unidas、Naciones Unidas；俄语：Организация Объединённых Наций；阿拉伯语：الأمم المتحدة），是在第二次世界大战后成立的一个由主权国家组成的政府间国际组织。1945年10月24日，在美国旧金山签订的《联合国宪章》生效，联合国正式成立。 [1] 
+SOUTHEAST
+1
+southeast，英文单词，名词、形容词、副词，作名词时译为“东南，东南方；东南地区，东南部；（风）来自东南的”，作形容词时译为“东南的，东南部的”，作副词时译为“在东南，朝东南；来自东南”。
+OF
+1
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+NAL
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=NAL&pn=0&rn=10&enc=utf8
+IVE
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=IVE&pn=0&rn=10&enc=utf8
+ITY
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=ITY&pn=0&rn=10&enc=utf8
+Editio
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Editio&pn=0&rn=10&enc=utf8

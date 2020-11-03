@@ -1,0 +1,60 @@
+cid
+2
+刑事侦缉处（英文：Criminal Investigation Department，缩写：CID），成立于1923年，隶属于香港警察队，负责刑事侦缉，由侦缉处处长领导。1973年解散。
+AutoML
+2
+AutoML 是谷歌的一个能够制造子 AI 的 AI 系统。
+Heller
+1
+heller，英语单词，主要用作名词，作名词时译为“(Heller) （荷）埃莱尔（人名）”。 [1] 
+Notebooks
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Notebooks&pn=0&rn=10&enc=utf8
+ELT
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/%E5%B0%8F%E4%BA%8B%E4%B9%90%E5%9B%A2/6129643?fromtitle=ELT&fromid=9352753
+Web
+2
+web（World Wide Web）即全球广域网，也称为万维网，它是一种基于超文本和HTTP的、全球性的、动态交互的、跨平台的分布式图形信息系统。是建立在Internet上的一种网络服务，为浏览者在Internet上查找和浏览信息提供了图形化的、易于访问的直观界面，其中的文档及超级链接将Internet上的信息节点组织成一个互为关联的网状结构。 [1] 
+Martin
+2
+martin是一家乐器公司，由弗兰克·马丁音乐家创立。
+Jupyter
+1
+Jupyter Notebook（此前被称为 IPython notebook）是一个交互式笔记本，支持运行 40 多种编程语言。
+ImageNet
+2
+ImageNet项目是一个用于视觉对象识别软件研究的大型可视化数据库。超过1400万的图像URL被ImageNet手动注释，以指示图片中的对象;在至少一百万个图像中，还提供了边界框。ImageNet包含2万多个类别; [2]一个典型的类别，如“气球”或“草莓”，包含数百个图像。第三方图像URL的注释数据库可以直接从ImageNet免费获得;但是，实际的图像不属于ImageNet。自2010年以来，ImageNet项目每年举办一次软件比赛，即ImageNet大规模视觉识别挑战赛（ILSVRC），软件程序竞相正确分类检测物体和场景。 ImageNet挑战使用了一个“修剪”的1000个非重叠类的列表。2012年在解决ImageNet挑战方面取得了巨大的突破，被广泛认为是2010年的深度学习革命的开始。
+GPU
+2
+图形处理器（英语：Graphics Processing Unit，缩写：GPU），又称显示核心、视觉处理器、显示芯片，是一种专门在个人电脑、工作站、游戏机和一些移动设备（如平板电脑、智能手机等）上做图像和图形相关运算工作的微处理器。 [1] 
+ETL
+1
+ETL，是英文Extract-Transform-Load的缩写，用来描述将数据从来源端经过抽取（extract）、转换（transform）、加载（load）至目的端的过程。ETL一词较常用在数据仓库，但其对象并不限于数据仓库。
+AI
+2
+人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。
+learn
+2
+learn，英语单词，及物动词、不及物动词，作及物动词时意为“学习；得知；认识到”，作不及物动词时意为“学习；获悉”。
+Zeppelin
+1
+Zeppelin是德国的一个钟表品牌，中文译名为齐柏林。
+Windows
+2
+Microsoft Windows操作系统是美国微软公司研发的一套操作系统，它问世于1985年，起初仅仅是Microsoft-DOS模拟环境，后续的系统版本由于微软不断的更新升级，不但易用，也成为了当前应用最广泛的操作系统。 [1] 
+Tubifi
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Tubifi&pn=0&rn=10&enc=utf8
+TPU
+2
+热塑性聚氨酯弹性体又称热塑性聚氨酯橡胶，简称TPU，是一种(AB)n型嵌段线性聚合物，A为高分子量(1000~6000)的聚酯或聚醚，B为含2~12直链碳原子的二醇，AB链段间化学结构是二异氰酸酯。热塑性聚氨酯橡胶靠分子间氢键交联或大分子链间轻度交联，随着温度的升高或降低，这两种交联结构具有可逆性。在熔融状态或溶液状态分子间力减弱，而冷却或溶剂挥发之后又有强的分子间力连接在一起，恢复原有固体的性能。典型的TPU如氨纶等。
+Software
+2
+The programs, routines, and symbolic languages that control the functioning of the hardware and direct its operation.
+Scikit
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Scikit&pn=0&rn=10&enc=utf8
+Python
+2
+Python是一种跨平台的计算机程序设计语言。 是一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言。最初被设计用于编写自动化脚本(shell)，随着版本的不断更新和语言新功能的添加，越多被用于独立的、大型项目的开发。

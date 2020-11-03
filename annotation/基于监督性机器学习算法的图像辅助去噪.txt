@@ -1,0 +1,24 @@
+x1
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/x1/23635032
+ni
+1
+Native Instruments公司是一家以发展与提供可供作曲人、制作人、演奏者、DJ等使用的软件与硬件的科技公司。该公司于1996年在德国柏林的Kreuzberg区成立，目前将总部设立于德国柏林与美国加利福尼亚洲洛杉矶。在成立之初，公司主要以软件乐器（软音源）著称，而近几年则开始涉足于其他音乐设备领域。
+CAE
+2
+CAE(Computer Aided Engineering)指工程设计中的计算机辅助工程，指用计算机辅助求解分析复杂工程和产品的结构力学性能，以及优化结构性能等，把工程（生产）的各个环节有机地组织起来，其关键就是将有关的信息集成，使其产生并存在于工程（产品）的整个生命周期。而CAE软件可作静态结构分析，动态分析；研究线性、非线性问题；分析结构（固体）、流体、电磁等。
+y1
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=y1&pn=0&rn=10&enc=utf8
+sgn
+3
+符号函数，返回参数的正负。
+ZZ
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/ZZ/2329640
+FSIM
+4
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=FSIM&pn=0&rn=10&enc=utf8
+DWT
+2
+网页模板文件格式

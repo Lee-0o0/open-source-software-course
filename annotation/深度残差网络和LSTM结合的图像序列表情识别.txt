@@ -1,0 +1,51 @@
+of
+1
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+the
+3
+the，英文单词，定冠词、副词，作定冠词时意为“这；那”，作副词时意为“更加（用于比较级，最高级前）”。
+network
+6
+network，FrameworkService.exe是是Network Associates公司的E-policy反病毒套装的一部分。
+facial
+10
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/facial
+Science
+1
+科学（Science）是一个建立在可检验的解释和对客观事物的形式、组织等进行预测的有序知识系统，是已系统化和公式化了的知识。
+Cohn
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Cohn&pn=0&rn=10&enc=utf8
+roject
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=roject&pn=0&rn=10&enc=utf8
+patterns
+1
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=patterns&pn=0&rn=10&enc=utf8
+on
+10
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/on
+esNet
+6
+能源科学网络(ESnet) 是连接美国能源部及其下属所有国家实验室、相关大学和其它部分国家科研机构的多环网，旨在促进资源共享与各实验室间的协同能力。能源科学网具有在基础设施方面的高连通性和数据传输方面的高可靠性、高效性等优点。
+different
+9
+《different》是Kate Ryan演唱的一部歌曲专辑，发行日期：2002年
+binary
+5
+二进制（binary）在数学和数字电路中指以2为基数的记数系统，以2为基数代表系统是二进位制的。这一系统中，通常用两个不同的符号0（代表零）和1（代表一）来表示 [1]  。数字电子电路中，逻辑门的实现直接应用了二进制，因此现代的计算机和依赖计算机的设备里都用到二进制。每个数字称为一个比特（Bit，Binary digit的缩写） [2]  。
+and
+1
+AND在编程术语中表示一种运算方法，不可逆
+accuracy
+9
+Accuracy，英语单词，名词，意为“精确度，准确性”。
+Shaanxi
+1
+shaanxi，英语单词，译为“陕西省”。
+Natural
+1
+S.E.N.S.最完整精选专辑 Natural 收录多首日剧及电影配乐 全新DSD数码编制 3CD单碟价发售
+LSTM
+6
+长短期记忆网络（LSTM，Long Short-Term Memory）是一种时间循环神经网络，是为了解决一般的RNN（循环神经网络）存在的长期依赖问题而专门设计出来的，所有的RNN都具有一种重复神经网络模块的链式形式。在标准RNN中，这个重复的结构模块只有一个非常简单的结构，例如一个tanh层。

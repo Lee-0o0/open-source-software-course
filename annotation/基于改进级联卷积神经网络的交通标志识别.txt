@@ -1,0 +1,36 @@
+IoU
+3
+IOU（Innovation Optimization Utilization 创新，优化，应用）是中国移动通信集团湖北有限公司总经理郭永宏提出来的， 旨在推动公司的改革创新，营造“积极进取、勤奋思考、主动担当、勇于创新”的企业文化氛围，激发广大员工在大数据时代的创新热情，为公司员工搭建提升自身价值的平台。
+RCNN
+3
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=RCNN&pn=0&rn=10&enc=utf8
+min
+5
+皮查雅·瓦塔那蒙迪里（Min），1989年4月28日出生于泰国孔敬，泰国女演员、模特。
+Cascade
+7
+CASCADE 是“计算机辅助菌株筛选与发展工程”的缩写。 CASCADE 的全称是Computer Assisted Strain Construction and Development Engineering。 CASCADE的中文翻译简称是加德。另有卫浴品牌同名。
+Vol
+8
+VOL是由英文字母组成的字母组合，代表多种意思，既是表示容量、音量的简写，又表示计算机命令，还表示飞鱼座的星座等。股市中的VOL是成交量指标，成交量是指个股或大盘的成交总手，在形态上用一根立式的柱子来表示。左面的坐标值与柱子的横向对应处，就是当日当时的成交总手。如当天收盘价高于当天开盘价，成交柱呈红色；反之，成交柱呈绿色。
+No
+6
+№，英文中称 numéro sign（/nuː'mɛrəʊ saɪn/，数字的符号），放在数字前面，表示号码、顺序。意思和井字号 # 一样。
+max
+5
+Max，是艺人吴尊儿子。
+GIoU
+2
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=GIoU&pn=0&rn=10&enc=utf8
+Faster
+6
+FASTER，是一种快速接头的品牌。
+Area
+5
+范围， 区域， 面积， 地区， 空地,据美国广播公司（ABC）报道，几十年来，美国神秘的第51区一直被神秘笼罩，只要一提到它，人们首先想到的便是UFO和外星人。随着中央情报局解密工作的进行，一名前军官为公众揭开51区的神秘面纱并披露在这一地区上演的被列为高度机密的计划。
+YOLOv3
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=YOLOv3&pn=0&rn=10&enc=utf8
+Loss
+5
+loss，英语单词，主要用作名词，意为“减少；亏损；失败；遗失”。

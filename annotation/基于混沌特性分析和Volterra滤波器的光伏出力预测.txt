@@ -1,0 +1,42 @@
+of
+4
+of [1]  是一个专为中高端爱美人士解决皮肤问题的护肤品品牌。总部位于厦门，秉承“为顾客着想、满意服务”的品牌宗旨。
+and
+6
+AND在编程术语中表示一种运算方法，不可逆
+MSE
+5
+Microsoft Security Essentials （开发代号Morro）是一款由微软（Microsoft）公司（收购一家反病毒软件厂商）开发的免费防病毒软件。该软件可以为正版 Windows 7提供保护，（注意：不支持正版Windows 2000、XP、Vista，微软已停止对这些系统的下载支持）使其免受病毒、间谍软件、rootkit 和木马的侵害。
+error
+6
+ERROR，英文单词，主要用作名词，作名词时意为“误差；错误；过失”。
+al
+7
+al是阿尔巴尼亚（Albania）的英文缩写。
+Volterra
+7
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=Volterra&pn=0&rn=10&enc=utf8
+results
+6
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=results&pn=0&rn=10&enc=utf8
+rediction
+5
+暂未找到相关释义，请查看链接： https://baike.baidu.com/search/none?word=rediction&pn=0&rn=10&enc=utf8
+m1
+4
+减数分裂（meiosis）是有性生殖生物在生殖细胞成熟过程中发生的特殊分裂方式。在这一过程中，DNA复制一次，细胞连续分裂两次，结果形成4个子细胞的染色体数目只有母细胞的一半，故称为减数分裂，又称成熟分裂（maturation division）。减数分裂的结果是形成单倍体（n）配子。减数分裂的全过程划分为4个阶段：间期Ⅰ、减数分裂Ⅰ、间期Ⅱ和减数分裂Ⅱ。 [1] 
+BF
+7
+游戏王卡组系列之一。动画以及漫画《游戏王5D'S》的主要角色克罗·霍根所使用，以同调召唤为主题的卡组系列。 [1-3] 
+time
+5
+《时代周刊》（Time）又称《时代》，创刊于1923年，是近一个世纪以来最先出现的新闻周刊之一，特为新的日益增长的国际读者群开设一个了解全球新闻的窗口。《时代》是美国三大时事性周刊之一，内容广泛，对国际问题发表主张和对国际重大事件进行跟踪报道。
+power
+7
+POWER函数的主要作用是返回给定数字的乘幂。POWER函数的语法为：POWER(number,power)，其中参数number表示底数；参数power表示指数。两个参数可以是任意实数，当参数power的值为小数时，表示计算的是开方；当参数number取值小于0且参数power为小数时，POWER函数将返回#NUM!错误值。 [1] 
+output
+4
+output，英语单词，名词、及物动词，作名词时意为“ 输出，输出量；产量；出产”。作及物动词时意为“输出”。
+nn
+7
+暂未找到相关释义，请查看链接： https://baike.baidu.com/item/NN
